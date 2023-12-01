@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/330.0.0.31.120;FBBV/308809011;FBDM/{density=3.0,width=1080,height=2050};FBLC/en_GB;FBRV/310262918;FBCR/Beeline;FBMF/meizu;FBBD/meizu;FBPN/com.facebook.katana;FBDV/meizu note9/DS;FBSV/9.0.0;FBOP/1;FBCA/arm64-v8a:;]
