@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097172;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/Airtel;FBMF/L-EMENT500;FBBD/L-EMENT500;FBPN/com.facebook.katana;FBDV/L-EMENT500;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/64.0.0.52.76;FBBV/22754145;FBDM/{density=1.5,width=480,height=782};FBLC/en_US;FBCR/Claro;FBMF/BLU;FBBD/BLU;FBPN/com.facebook.katana;FBDV/BLU DASH M2;FBSV/6.0;nullFBCA/armeabi-v7a:armeabi;]
