@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/60.0.0.16.76;FBBV/20453986;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/TIGO;FBMF/TCL;FBBD/TCL_MetroPCS;FBPN/com.facebook.katana;FBDV/7040N;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/MessengerForiOS;FBAV/146.0.0.61.17;FBBV/14197267;FBDV/iPhone9,4;FBMD/iPhone;FBSN/iOS;FBSV/9.2.4;FBSS/2;FBCR/Vodafone In ;FBID/phone;FBLC/en_US;FBOP/5;FBRV/0]
