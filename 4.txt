@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/395.0.0.19.94;FBBV/490899940;FBRV/0;FBPN/com.facebook.katana;FBLC/pt_BR;FBMF/Aquaris;FBBD/Aquaris;FBDV/BQ Aquaris C;FBSV/13;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=3.5,width=1440,height=2560};FBLC/es_LA;FBCR/MOVISTAR;FBMF/Rockchip;FBBD/K5-3G;FBPN/com.facebook.katana;FBDV/K5-3G;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]
