@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097171;FBDM/{density=1.0,width=1280,height=752};FBLC/en_US;FBCR/F-Bouygues Telecom;FBMF/Hewlett-Packard;FBBD/hp;FBPN/com.facebook.katana;FBDV/HP Slate 10 Plus;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097173;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBCR/Rio IN AR;FBMF/Sony Ericsson;FBBD/SEMC;FBPN/com.facebook.katana;FBDV/LT26i;FBSV/4.1.2;nullFBCA/armeabi-v7a:armeabi;]
