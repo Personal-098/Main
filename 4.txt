@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097173;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBCR/Claro AR;FBMF/Sony Ericsson;FBBD/SEMC;FBPN/com.facebook.katana;FBDV/LT26i;FBSV/4.1.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/59.0.0.0.267;FBBV/19599763;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBCR/Vodafone In;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/HM NOTE 1S;FBSV/4.4.4;nullFBCA/armeabi-v7a:armeabi;]
