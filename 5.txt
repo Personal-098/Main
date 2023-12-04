@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097173;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBCR/Vodafone In;FBMF/elephone;FBBD/elephone;FBPN/com.facebook.katana;FBDV/Elephone P6000 02;FBSV/4.4.4;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/332957732;FBDM/{density=3.0,width=1080,height=2181};FBLC/en_GB;FBRV/334074629;FBCR/1O1O;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G9960;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
