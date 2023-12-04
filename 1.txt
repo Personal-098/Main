@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/60.0.0.16.76;FBBV/20453986;FBDM/{density=1.5,width=480,height=854};FBLC/en_US;FBCR/Proximus;FBMF/Enspert;FBBD/WIKO;FBPN/com.facebook.katana;FBDV/IGGY;FBSV/4.2.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/356.0.0.28.112;FBBV/353870802;FBDM/{density=3.0,width=1080,height=2158};FBLC/en_US;FBRV/0;FBCR/VODADFONE IN;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH2067;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
