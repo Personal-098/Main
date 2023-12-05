@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/136.0.0.41.38;FBPN/com.facebook.katana;FBLC/en_US;FBBV/575728471;FBCR/VodaPhone Idea;FBMF/OPPO;FBBD/OPPO;FBDV/A74 5G;FBSV/9.2.1;FBCA/arm64-v8a:null;FBDM/{density=2.625,width=1080,height=2042};FB_FW/1;]
+[FBAN/Orca-Android;FBAV/376.0.0.9.116;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/356687941;FBCR/Airtel;FBMF/OPPO;FBBD/OPPO;FBDV/CPH1955;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=1.0,width=800,height=1264};FB_FW/1;]
