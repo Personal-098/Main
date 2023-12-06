@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097196;FBDM/{density=3.5,width=1440,height=2392};FBLC/en_US;FBCR/Fi Network;FBMF/Huawei;FBBD/google;FBPN/com.facebook.katana;FBDV/Nexus 6P;FBSV/6.0.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/65.0.0.42.81;FBBV/23239444;FBDM/{density=1.5,width=720,height=1208};FBLC/en_US;FBCR/MPT;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/D2502;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]
