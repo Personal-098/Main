@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748054;FBDM/{density=2.0,width=720,height=1184};FBLC/en_GB;FBCR/Vodafone Idea;FBMF/HUAWEI;FBBD/Huawei;FBPN/com.facebook.katana;FBDV/G7-L01;FBSV/4.4.4;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/441.1.0.39.109;FBBV/539182859;FBDM/{density=2.75,width=1080,height=2266};FBLC/en_GB;FBRV/0;FBCR/airtel;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/2201116SG;FBSV/13;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]
