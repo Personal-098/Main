@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/376.0.0.9.116;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/356687941;FBCR/Airtel;FBMF/OPPO;FBBD/OPPO;FBDV/CPH1955;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=1.0,width=800,height=1264};FB_FW/1;]
+[FBAN/FB4A;FBAV/60.0.0.16.76;FBBV/20453986;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/TELCEL;FBMF/LANIX;FBBD/LANIX;FBPN/com.facebook.katana;FBDV/Ilium S130;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
