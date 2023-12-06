@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/442.0.0.44.114;FBBV/447419352;FBDM/{density=3.0,width=1080,height=2190};FBLC/in_ID;FBRV/447419352;FBCR/VodaPhone In;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/COL-L29;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097196;FBDM/{density=3.5,width=1440,height=2392};FBLC/en_US;FBCR/Fi Network;FBMF/Huawei;FBBD/google;FBPN/com.facebook.katana;FBDV/Nexus 6P;FBSV/6.0.1;nullFBCA/armeabi-v7a:armeabi;]
