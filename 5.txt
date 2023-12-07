@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/443.0.0.23.229;FBBV/447626372;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/Robi Jio;FBMF/Enspert;FBBD/WIKO;FBPN/com.facebook.katana;FBDV/CINK PEAX 2;FBSV/4.1.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/260.0.0.42.118;FBBV/201518776;FBDM/{density=2.25,width=720,height=1172};FBLC/en_US;FBRV/203119134;FBCR/AIRTEL;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto E (4) Plus;FBSV/8.8.8;FBOP/4;FBCA/armeabi-v7a:armeabi;]
