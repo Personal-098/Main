@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/443.0.0.23.229;FBBV/447626372;FBDM/{density=2.0,width=720,height=1184};FBLC/en_US;FBCR/Ufone;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto X;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097172;FBDM/{density=1.5,width=480,height=854};FBLC/id_ID;FBCR/Vodafone In;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/1201;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
