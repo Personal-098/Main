@@ -1,1 +1,2 @@
-[FBAN/FB4A;FBAV/6.0.0.28.28;FBBV/1264002;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/VodaPhone In;FBPN/com.facebook.katana;FBDV/T200;FBSV/4.2.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748049;FBDM/{density=1.0,width=1024,height=552};FBLC/en_US;FBCR/Airtel Idea;FBMF/T7Pro;FBBD/T7Pro;FBPN/com.facebook.katana;FBDV/T7 Pro;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
+ 
