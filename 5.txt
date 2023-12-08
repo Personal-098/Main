@@ -1,2 +1,1 @@
 [FBAN/FB4A;FBAV/443.0.0.23.229;FBBV/447626372;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBCR/Airtel;FBMF/wing;FBBD/wing;FBPN/com.facebook.katana;FBDV/Velocity;FBSV/4.2.2;nullFBCA/armeabi-v7a:armeabi;]
- 
