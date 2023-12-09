@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097172;FBDM/{density=1.5,width=540,height=888};FBLC/en_US;FBCR/VodaFone In;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/C2304;FBSV/4.2.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/5.0.0.26.31;FBBV/1056412;FBDM/{density=1.5,width=480,height=854};FBLC/en_US;FBCR/VodaPhone In;FBPN/com.facebook.katana;FBDV/Stylo;FBSV/4.2.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
