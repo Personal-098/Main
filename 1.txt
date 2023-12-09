@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/8.0.0.26.24;FBBV/2119855;FBDM/{density=2.0,width=720,height=1184};FBLC/en_US;FBCR/Vodafone In;FBPN/com.facebook.katana;FBDV/Galaxy_Nexus;FBSV/4.3;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/286.0.0.21.122;FBPN/com.facebook.orca;FBLC/en_US ;FBBV/250669390;FBCR/Jio 4G;FBMF/vivo;FBBD/vivo;FBDV/vivo 1716;FBSV/8.1.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height= 1356};FB_FW/1;]
