@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/6.0.0.28.28;FBBV/1264000;FBDM/{density=1.3312501,width=800,height=1216};FBLC/en_US;FBCR/vodafone Idea;FBPN/com.facebook.katana;FBDV/K00E;FBSV/4.3;FBOP/19;FBCA/x86:armeabi-v7a;]
+[FBAN/FB4A;FBAV/405.0.0.23.72;FBBV/453370252;FBDM/{density=3.0,width=1080,height=2156};FBLC/en_US;FBRV/455160500;FBCR/Vodafone Idea;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH2065;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
