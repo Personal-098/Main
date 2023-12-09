@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/6.0.0.28.28;FBBV/1264000;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/Robi India;FBPN/com.facebook.katana;FBDV/LT22i;FBSV/4.1.2;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/379.0.0.24.109;FBBV/389395368;FBDM/{density=2.0,width=720,height=1440};FBLC/en_US;FBRV/391413024;FBCR/Airtel;FBMF/TECNO MOBILE LIMITED;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO KE5;FBSV/10;FBOP/1;FBCA/armeabi-v7a:armeabi;]
