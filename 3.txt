@@ -1,1 +1,1 @@
-[FBAN/MessengerLite;FBAV/133.0.0.1.116;FBPN/com.facebook.mlite;FBLC/en_US;FBBV/279951921;FBCR/Vodaphone In;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/HUAWEI LUA-L21;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.5,width=480,height=854};]
+[FBAN/FB4A;FBAV/355.0.0.21.108;FBBV/352948159;FBDM/{density=2.0,width=720,height=1360};FBLC/en_GB;FBCR/T-Mobile India;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.katana;FBDV/ZTE Blade L8;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
