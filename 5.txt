@@ -1,1 +1,1 @@
-[FBAN/MessengerLite;FBAV/312.0.0.8.106;FBPN/com.facebook.mlite;FBLC/in_ID;FBBV/431836095;FBCR/Vodafone Idea;FBMF/vivo;FBBD/vivo;FBDV/vivo Y20;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=2.29375,width=1080,height=2145};]
+[FBAN/FB4A;FBAV/3.8;FBBV/495514;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBCR/Vodafone In;FBPN/com.facebook.katana;FBDV/W200;FBSV/4.2.1;FBCA/armeabi-v7a:armeabi;]
