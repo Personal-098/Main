@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/346.0.0.29.119;FBBV/335950287;FBDM/{density=2.625,width=1080,height=1920};FBLC/in_IN;FBRV/337277111;FBCR/Vodaphone India;FBMF/Coolpad Cool1 dual;FBBD/Coolpad Cool1 dual;FBPN/com.facebook.katana;FBDV/Coolpad Cool1 dual;FBSV/8.8.8;FBOP/5;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097172;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/Vodaphone Idea;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-S7582;FBSV/4.2.2;nullFBCA/armeabi-v7a:armeabi;]
