@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/5.0.0.26.31;FBBV/1056412;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/vodafone_India;FBPN/com.facebook.katana;FBDV/M-PP2G530;FBSV/4.2.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/289.0.0.40.121;FBBV/246888190;FBDM/{density=2.0,width=720,height=1426};FBLC/it_IT;FBRV/248318572;FBCR/CoopVoce;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/POT-LX1;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
