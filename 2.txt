@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097172;FBDM/{density=1.5,width=480,height=800};FBLC/in_IN;FBCR/Vodaphone Idea;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-S7582;FBSV/4.1.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/2.2.1;FBBV/124972;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/Jio India;FBPN/com.facebook.katana;FBDV/K5;FBSV/4.2.1;]
