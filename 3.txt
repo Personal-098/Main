@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097173;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBCR/Rio In;FBMF/bq;FBBD/bq;FBPN/com.facebook.katana;FBDV/Aquaris E5;FBSV/4.4.4;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097173;FBDM/{density=2.0,width=720,height=1280};FBLC/in_IN;FBCR/Indian Airtel;FBMF/BQ Aquaris E5s;FBBD/BQ Aquaris E5s;FBPN/com.facebook.katana;FBDV/BQ Aquaris E5;FBSV/4.4.4;nullFBCA/armeabi-v7a:armeabi;]
