@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/Jio;FBMF/Meizu;FBBD/Meizu;FBPN/com.facebook.katana;FBDV/MX5;FBSV/5.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/60.0.0.16.76;FBBV/20453986;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/movistar;FBMF/AIRIS;FBBD/AIRIS;FBPN/com.facebook.katana;FBDV/TM600M;FBSV/4.2.2;nullFBCA/armeabi-v7a:armeabi;]
