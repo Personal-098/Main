@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/2.2.1;FBBV/124972;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/Jio India;FBPN/com.facebook.katana;FBDV/K5;FBSV/4.2.1;]
+[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748051;FBDM/{density=1.5,width=480,height=854};FBLC/en_US;FBCR/Vodafone IN;FBMF/Micromax;FBBD/Micromax;FBPN/com.facebook.katana;FBDV/Micromax A177;FBSV/4.2.2;nullFBCA/armeabi-v7a:armeabi;]
