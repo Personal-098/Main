@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/70.0.0.22.83;FBBV/26502135;FBDM/{density=1.0,width=800,height=1232};FBLC/en_US;FBCR/Airtel Idea;FBMF/ECS;FBBD/JP;FBPN/com.facebook.katana;FBDV/TR10CS1;FBSV/4.4.2;FBOP/1;FBCA/x86:armeabi-v7a;]
+[FBAN/FB4A;FBAV/60.0.0.16.76;FBBV/20454045;FBDM/{density=1.0,width=600,height=976};FBLC/en_US;FBCR/Robi bn;FBMF/AOC_U705;FBBD/AOC_U705;FBPN/com.facebook.katana;FBDV/AOC U705;FBSV/4.4.4;nullFBCA/x86:armeabi-v7a;]
