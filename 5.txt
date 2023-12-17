@@ -1,5 +1,1 @@
-[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/Rogers Wireless;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONE A2005;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/5.0.0.26.31;FBBV/1056412;FBDM/{density=1.5,width=480,height=854};FBLC/en_US;FBCR/Orange;FBPN/com.facebook.katana;FBDV/Orange_Hiro;FBSV/4.2.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-[FBAN/MessengerLite;FBAV/312.0.0.8.106;FBPN/com.facebook.mlite;FBLC/in_ID;FBBV/431836095;FBCR/Jio;FBMF/KFTT;FBBD/KFTT;FBDV/KFTT;FBSV/4.0.3;FBCA/arm64-v8a:null;FBDM/{density=1.5,width=1280,height=800};]
-[FBAN/FB4A;FBAV/70.0.0.22.83;FBBV/26502135;FBDM/{density=1.0,width=800,height=1232};FBLC/en_US;FBCR/Airtel;FBMF/ECS;FBBD/JP;FBPN/com.facebook.katana;FBDV/TR10CS1;FBSV/4.4.2;FBOP/1;FBCA/x86:armeabi-v7a;]
-[FBAN/Orca-Android;FBAV/196.0.0.13;FBPN/com.facebook.orca;FBLC/en_US;FBBV/629894307;FBCR/Vodafone idea;FBMF/Xiaomi;FBBD/Xiaomi;FBDV/M2006C3LVG;FBSV/10.3.5;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.0,width=1280,height=1080};FB_FW/1;FBRV/665130214;]
+[FBAN/FB4A;FBAV/5.0.0.26.31;FBBV/1056406;FBDM/{density=1.0,width=600,height=976};FBLC/en_US;FBCR/vodaphone india;FBPN/com.facebook.katana;FBDV/B1-710;FBSV/4.1.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
