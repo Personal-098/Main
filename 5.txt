@@ -1,1 +1,1 @@
-[FBAN/FBForIPhone;FBAV/4.1.1;FBBV/4110.0;FBDV/iPad2,1;FBMD/iPad;FBSN/iPhone OS;FBSV/5.1.1;FBSS/1; FBCR/;FBID/tablet;FBLC/en_US;FBSF/1.0]
+[FBAN/FB4A;FBAV/5.0.0.26.31;FBBV/1056412;FBDM/{density=1.5,width=480,height=854};FBLC/en_US;FBCR/vodafone idea;FBPN/com.facebook.katana;FBDV/Stylo;FBSV/4.2.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
