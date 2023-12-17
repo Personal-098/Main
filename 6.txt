@@ -1,1 +1,1 @@
-6
+[FBAN/MessengerLite;FBAV/125.0.0.1.117;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/269740006;FBCR/Jio;FBMF/motorola;FBBD/motorola;FBDV/Motorola Moto E7 Plus;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.7,width=1080,height=1794};]
