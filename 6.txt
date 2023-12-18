@@ -1,1 +1,1 @@
-[FBAN/FBW;FBAV/186.0.0.83.783;FBBV/143636256;FBDV/Inspiron757307EC;FBMD/Inspiron 7573;FBSN/Windows;FBSV/10.0.17763.678;FBSS/1;FBCR/Airtel;FBID/desktop;FBLC/en_US;FBOP/45;FBRV/0]
+[FBAN/FB4A;FBAV/263.0.0.46.121;FBBV/205281661;FBDM/{density=1.5,width=1920,height=1128};FBLC/in_IN;FBRV/0;FBCR/vodaphone india;FBMF/Verizon Ellipsis 10;FBBD/Verizon Ellipsis 10;FBPN/com.facebook.katana;FBDV/Verizon Ellipsis 10 QTAIR7;FBSV/5.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
