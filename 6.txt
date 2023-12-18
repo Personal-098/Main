@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/263.0.0.46.121;FBBV/205281661;FBDM/{density=1.5,width=1920,height=1128};FBLC/in_IN;FBRV/0;FBCR/vodaphone india;FBMF/Verizon Ellipsis 10;FBBD/Verizon Ellipsis 10;FBPN/com.facebook.katana;FBDV/Verizon Ellipsis 10 QTAIR7;FBSV/5.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/18.0.0.24.14;FBBV/4475766;FBDM/{density=2.0,width=720,height=1184};FBLC/en_US;FBCR/Virgin Mobile;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/XT1045;FBSV/4.4.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
