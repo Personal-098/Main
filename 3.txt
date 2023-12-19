@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/346.0.0.29.119;FBBV/335950287;FBDM/{density=2.625,width=1080,height=1920};FBLC/in_IN;FBRV/337277111;FBCR/Vodaphone India;FBMF/Bird D706;FBBD/Bird D706;FBPN/com.facebook.katana;FBDV/Bird D706;FBSV/8.8.8;FBOP/5;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/167.0.0.33.94;FBBV/101783969;FBDM/{density=2.0,width=720,height=1280};FBLC/en_GB;FBRV/0;FBCR/StarHub Mobile;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/A37f;FBSV/5.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
