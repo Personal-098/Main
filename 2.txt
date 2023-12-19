@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/319.0.0.39.120;FBBV/292233352;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/296244047;FBCR/airtel;FBMF/GIONEE;FBBD/GIONEE;FBPN/com.facebook.katana;FBDV/GIONEE F205;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/264.0.0.44.111;FBBV/206636710;FBDM/{density=2.0,width=720,height=1344};FBLC/in_IN;FBRV/0;FBCR/Idea - Be Safe;FBMF/Gionee;FBBD/Gionee;FBPN/com.facebook.katana;FBDV/F205;FBSV/8.1.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
