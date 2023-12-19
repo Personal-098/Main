@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097171;FBDM/{density=1.0,width=1024,height=552};FBLC/en_US;FBCR/Vodafone In;FBMF/archos;FBBD/archos;FBPN/com.facebook.katana;FBDV/Archos 101c Neon;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/319.0.0.39.120;FBBV/292233352;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/296244047;FBCR/airtel;FBMF/GIONEE;FBBD/GIONEE;FBPN/com.facebook.katana;FBDV/GIONEE F205;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
