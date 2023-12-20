@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/3.8;FBBV/495492;FBDM/{density=1.0,width=320,height=480};FBLC/en_US;FBCR/vodafone_IT;FBPN/com.facebook.katana;FBDV/GT-S5830i;FBSV/2.3.6;FBCA/armeabi:unknown;]
+[FBAN/FB4A;FBAV/64.0.0.52.76;FBBV/22754206;FBDM/{density=1.5,width=540,height=888};FBLC/en_US;FBCR/AT&amp-T;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/MotoE2;FBSV/5.1;nullFBCA/armeabi-v7a:armeabi;]
