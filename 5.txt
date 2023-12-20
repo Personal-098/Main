@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/6.0.0.28.28;FBBV/1264000;FBDM/{density=1.5,width=720,height=1208};FBLC/en_US;FBCR/Vodafone idea;FBPN/com.facebook.katana;FBDV/HUAWEI_MT1-U06;FBSV/4.1.2;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/71.0.0.0.31;FBBV/26039933;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBCR/TUNISIE TELECOM;FBMF/Cellcom;FBBD/EVERTEK;FBPN/com.facebook.katana;FBDV/EverMiracle S;FBSV/5.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
