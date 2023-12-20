@@ -1,1 +1,1 @@
-[FBAN/PAAA;FBAV/369.0.0.19.112;FBDM/{density=2.75,width=1080,height=2134};FBLC/en_US;FBBV/387360148;FB_FW/2;FBSN/Android;FBDI/a584af9c-e761-4592-b93c-ad7c1b042316;FBCR/A1 SRB;FBMF/Xiaomi;FBBD/Redmi;FBDV/Redmi Note 8 Pro;FBSV/10;FBCA/arm64-v8a:null;]
+[FBAN/FB4A;FBAV/25.0.0.52.53;FBBV/20097162;FBDM/{density=1.4,width=1450,height=2570};FBLC/en_US;FBCR/AT&amp;T;FBMF/Motorola;FBBD/Motorola;FBPN/com.facebook.katana;FBDV/Moto G Stylus (2021);FBSV/7.1.1;nullFBCA/armeabi-v7a:armeabi;]
