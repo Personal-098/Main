@@ -1,1 +1,6 @@
 [FBAN/FB4A;FBAV/5.0.0.26.31;FBBV/1056408;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/Airtel;FBPN/com.facebook.katana;FBDV/YP-G70;FBSV/2.3.5;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097173;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/Vodafone IN;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I8262;FBSV/4.1.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097173;FBDM/{density=2.0,width=720,height=1280};FBLC/es_LA;FBCR/Claro AR;FBMF/Sony Ericsson;FBBD/SEMC;FBPN/com.facebook.katana;FBDV/LT26i;FBSV/4.1.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/60.0.0.16.76;FBBV/20453974;FBDM/{density=1.0,width=1280,height=800};FBLC/es_LA;FBCR/;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-T531;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748051;FBDM/{density=1.5,width=1920,height=1128};FBLC/fr_FR;FBCR/;FBMF/Acer;FBBD/acer;FBPN/com.facebook.katana;FBDV/A700;FBSV/4.1.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748104;FBDM/{density=1.5,width=480,height=854};FBLC/en_GB;FBCR/vodafone IE;FBMF/Vodafone;FBBD/Vodafone;FBPN/com.facebook.katana;FBDV/VF-795;FBSV/5.1;nullFBCA/armeabi-v7a:armeabi;]
