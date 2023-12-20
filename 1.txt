@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/25.0.0.52.53;FBBV/20097162;FBDM/{density=1.4,width=1450,height=2570};FBLC/en_US;FBCR/AT&amp;T;FBMF/Motorola;FBBD/Motorola;FBPN/com.facebook.katana;FBDV/Moto G Stylus (2021);FBSV/7.1.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/128.0.0.26.68;FBBV/61451353;FBDM/{density=4.0,width=1440,height=2560};FBLC/en_US;FBRV/61451353;FB_FW/2;FBCR/MTS RUS;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G920F;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
