@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748129;FBDM/{density=1.5,width=1200,height=1848};FBLC/en_GB;FBCR/;FBMF/LENOVO;FBBD/Lenovo;FBPN/com.facebook.katana;FBDV/YOGA Tablet 2-1050F;FBSV/5.0.1;nullFBCA/x86:armeabi-v7a;]
+[FBAN/FB4A;FBAV/128.0.0.26.68;FBBV/61451353;FBDM/{density=4.0,width=1440,height=2560};FBLC/en_US;FBRV/61451353;FB_FW/2;FBCR/MTS RUS;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G920F;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
