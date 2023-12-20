@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/5.0.0.26.31;FBBV/1056405;FBDM/{density=1.0,width=320,height=480};FBLC/en_US;FBCR/Vodafone uganda;FBPN/com.facebook.katana;FBDV/Quasar;FBSV/2.3.4;FBOP/1;FBCA/armeabi:unknown;]
+[FBAN/FB4A;FBAV/79.0.0.0.52;FBBV/30370547;FBDM/{density=1.5,width=480,height=854};FBLC/en_US;FBCR/TIGO;FBMF/verykool;FBBD/verykool;FBPN/com.facebook.katana;FBDV/verykoolS5004;FBSV/4.4.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
