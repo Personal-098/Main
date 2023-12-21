@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/352.0.0.21.117;FBBV/348184966;FBDM/{density=2.0,width=720,height=1440};FBLC/en_US;FBRV/0;FBCR/Vodafone In;FBMF/TECNO MOBILE LIMITED;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO KE5j;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/256.0.0.39.117;FBBV/196542500;FBDM/{density=2.0,width=720,height=1371};FBLC/en_US;FBRV/198223028;FBCR/Metro by T-Mobile;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto g(7) power;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
