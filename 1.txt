@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097173;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/Vodafone IN;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I8262;FBSV/4.1.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/MessengerLiteForiOS;FBAV/253.1.0.43.116;FBBV/200174216;FBDV/iPhone10,5;FBMD/iPhone;FBSN/iOS;FBSV/13.3.1;FBSS/3;FBCR/;FBID/phone;FBLC/en_GB;FBOP/0]
