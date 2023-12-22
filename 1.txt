@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/405.0.0.23.72;FBBV/453370252;FBDM/{density=3.0,width=1080,height=2156};FBLC/en_US;FBRV/455160500;FBCR/Robi In;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH2065;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097173;FBDM/{density=2.0,width=720,height=1280};FBLC/es_ES;FBCR/Orange;FBMF/bq;FBBD/bq;FBPN/com.facebook.katana;FBDV/Aquaris E5;FBSV/4.4.4;nullFBCA/armeabi-v7a:armeabi;]
