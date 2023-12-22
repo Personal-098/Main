@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/320.0.0.34.118;FBBV/293906210;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/295812335;FBCR/T-Mobile;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 4;FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097190;FBDM/{density=1.5,width=540,height=888};FBLC/en_US;FBCR/TATA DOCOMO;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/MotoE2;FBSV/5.0.2;nullFBCA/armeabi-v7a:armeabi;]
