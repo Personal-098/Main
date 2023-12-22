@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/3.8;FBBV/495493;FBDM/{density=1.0,width=1024,height=720};FBLC/it_IT;FBCR/Airtel_In;FBPN/com.facebook.katana;FBDV/A1-810;FBSV/4.2.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097190;FBDM/{density=1.5,width=480,height=854};FBLC/es_ES;FBCR/;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.katana;FBDV/ZTE Blade L3;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
