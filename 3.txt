@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/3.8;FBBV/495493;FBDM/{density=1.0,width=1024,height=720};FBLC/it_IT;FBCR/Airtel_In;FBPN/com.facebook.katana;FBDV/A1-810;FBSV/4.2.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
