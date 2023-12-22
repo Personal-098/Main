@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/320.0.0.34.118;FBBV/293906210;FBDM/{density=3.0,width=1080,height=1920};FBLC/ru_RU;FBRV/295812335;Vodafone India;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 4;FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+
