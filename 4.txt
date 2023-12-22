@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097190;FBDM/{density=1.5,width=540,height=888};FBLC/en_US;FBCR/TATA DOCOMO;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/MotoE2;FBSV/5.0.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/283.0.0.31.121;FBBV/237966664;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/239607955;FBCR/Sprint;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/9;FBOP/19;FBCA/arm64-v8a:;]
