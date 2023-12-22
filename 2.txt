@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/25.0.0.52.53;FBBV/20097162;FBDM/{density=1.4,width=1450,height=2570};FBLC/en_US;FBCR/AT&amp_India;FBMF/Motorola;FBBD/Motorola;FBPN/com.facebook.katana;FBDV/Moto G Stylus (2021);FBSV/7.1.1;nullFBCA/armeabi-v7a:armeabi;]
