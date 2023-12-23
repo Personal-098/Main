@@ -1,1 +1,1 @@
-Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/MessengerForiOS;FBAV/221.0.0.47.153;FBBV/160689034;FBDV/iPhone11,6;FBMD/iPhone;FBSN/iOS;FBSV/12.3.1;FBSS/3;FBCR/Verizon;FBID/phone;FBLC/en_US;FBOP/5]
+[FBAN/FB4A;FBAV/212.0.0.28.110;FBBV/145459255;FBDM/{density=3.0,width=1080,height=2032};FBLC/en_GB;FBRV/0;FBCR/Jio iD;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/FIG-LX1;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
