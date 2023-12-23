@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/379.0.0.24.109;FBBV/389395297;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_US;FBRV/390374938;FBCR/Amigo;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/PRA-LX1;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/243.0.0.12.117;FBPN/com.facebook.orca;FBLC/en_US;FBBV/185139851;FBCR/Vodaphone idea;FBMF/WIKO;FBBD/WIKO;FBDV/FEVER;FBSV/9;FBCA/arm64-v8a:null;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]
