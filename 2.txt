@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/262.0.0.34.117;FBBV/203997168;FBDM/{density=3.0,width=1080,height=1812};FBLC/ru_RU;FBRV/204734771;FBCR/Banglalink;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/HUAWEI VNS-L21;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+[FBAN/MessengerLite;FBAV/312.0.0.8.106;FBPN/com.facebook.mlite;FBLC/en_US;FBBV/431836095;FBCR/Airtel;FBMF/samsung;FBBD/samsung;FBDV/GT-I9195;FBSV/4.0.3;FBCA/arm64-v8a:null;FBDM/{density=1.5,width=540,height=960};]
