@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/238.0.0.44.76;FBPN/com.facebook.katana;FBLC/en_US;FBBV/144459868;FBCR/OrangeSwitzerland;FBMF/samsung;FBBD/samsung;FBDV/D800;FBSV/16.2;FBCA/arm64-v8a:;FBDM/{density=2.0,width=720,height=1362};FB_FW/1;]
+[FBAN/FB4A;FBAV/262.0.0.34.117;FBBV/203997168;FBDM/{density=3.0,width=1080,height=1812};FBLC/ru_RU;FBRV/204734771;FBCR/Vodafone UA;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/HUAWEI VNS-L21;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
