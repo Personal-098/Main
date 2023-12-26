@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/3.9;FBBV/666387;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/vodafone_IT;FBPN/com.facebook.katana;FBDV/GT-I9000;FBSV/2.2;FBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/294.0.0.0.55;FBPN/com.facebook.orca;FBLC/en_US;FBBV/260273017;FBCR/Airtel;FBMF/MEIZU;FBBD/MEIZU;FBDV/MEIZU 18 Pro;FBSV/11;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.75,width=1080,height=2182};FB_FW/1;]
