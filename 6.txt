@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/60.0.0.16.76;FBBV/20454129;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/Verizon Wireless;FBMF/samsung;FBBD/Verizon;FBPN/com.facebook.katana;FBDV/SCH-I545;FBSV/5.0.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/294.0.0.0.55;FBPN/com.facebook.orca;FBLC/en_US;FBBV/260273017;FBCR/Airtel;FBMF/MEIZU;FBBD/MEIZU;FBDV/MEIZU 18 Pro;FBSV/11;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.75,width=1080,height=2182};FB_FW/1;]
