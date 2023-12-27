@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748049;FBDM/{density=1.0,width=1024,height=720};FBLC/en_US;FBCR/Combodia_IN;FBMF/rockchip;FBBD/rk30sdk;FBPN/com.facebook.katana;FBDV/NBX-T8014;FBSV/4.2.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/248.0.0.7.127;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/194293860;FBCR/Airtel;FBMF/KENNEX;FBBD/KENNEX;FBDV/KENNEX T7021;FBSV/8.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=0.75,width=800,height=444};FB_FW/1;]
