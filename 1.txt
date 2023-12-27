@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/248.0.0.7.127;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/194293860;FBCR/Airtel;FBMF/ASUS;FBBD/ASUS;FBDV/MeMO Pad FHD 10 ME302C;FBSV/8.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.5,width=1200,height=1848};FB_FW/1;]
+[FBAN/Orca-Android;FBAV/248.0.0.7.127;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/194293860;FBCR/Vodafone_IN;FBMF/Quanta;FBBD/Verizon;FBDV/QTAIR7;FBSV/8.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.5,width=1920,height=1128};FB_FW/1;]
