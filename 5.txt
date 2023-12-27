@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/60.0.0.16.76;FBBV/20454129;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/AT&amp-T;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SAMSUNG-SM-G900A;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/248.0.0.7.127;FBPN/com.facebook.orca;FBLC/in_IN;FBBV/194293860;FBCR/Vodafone_IN;FBMF/Huawei Ascend Y300;FBBD/Huawei Ascend Y300;FBDV/Y300-0100;FBSV/8.0;FBCA/armeabi-v7a:armeabi;FBDM//{density=1.5,width=480,height=800};FB_FW/1;]
