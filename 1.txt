@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/324.0.0.48.120;FBBV/300480885;FBDM/{density=3.0,width=1080,height=2016};FBLC/en_US;FBRV/302048709;FBCR/Vodafone CZ;FBMF/CUBOT;FBBD/CUBOT;FBPN/com.facebook.katana;FBDV/CUBOT_X18_Plus;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/437.0.0.26.230;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/543663515;FBCR/Vi India;FBMF/Xiaomi;FBBD/Redmi;FBDV/M2006C3LI;FBSV/11;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1449};FB_FW/1;]
