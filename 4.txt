@@ -1,1 +1,1 @@
-[FBAN/MessengerLite;FBAV/78.0.1.18.236;FBPN/com.facebook.mlite;FBLC/en_US;FBBV/201616056;FBCR/GrameenPhone;FBMF/Oppo Neo 7;FBBD/Oppo Neo 7;FBDV/Oppo Neo 7;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=1.5,width=540,height=960};]
+[FBAN/FB4A;FBAV/312.0.0.45.117;FBBV/281505338;FBDM/{density=2.625,width=1080,height=1920};FBLC/en_US;FBRV/283309601;FBCR/Verizon;FBMF/samsung;FBBD/Verizon;FBPN/com.facebook.katana;FBDV/SM-N920V;FBSV/7.0;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]
