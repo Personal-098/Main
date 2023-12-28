@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/308.0.0.42.118;FBBV/275987624;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBRV/277662387;FBCR/hallon;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto G (5S) Plus;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/65.0.0.42.81;FBBV/23239444;FBDM/{density=1.5,width=720,height=1208};FBLC/en_US;FBCR/MPT;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/D2502;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]
