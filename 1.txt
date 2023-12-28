@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/437.0.0.26.230;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/543663515;FBCR/Vi India;FBMF/Xiaomi;FBBD/Redmi;FBDV/M2006C3LI;FBSV/11;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1449};FB_FW/1;]
+[FBAN/FB4A;FBAV/262.0.0.34.117;FBBV/203997166;FBDM/{density=2.25,width=720,height=1172};FBLC/en_US;FBRV/0;FBCR/Reliance Jio;FBMF/WIKO;FBBD/WIKO;FBPN/com.facebook.katana;FBDV/U PULSE LITE;FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
