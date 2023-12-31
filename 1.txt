@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/82.0.0.0.27;FBBV/31528336;FBDM/{density=1.5,width=480,height=854};FBLC/en_US;FBCR/Digi.Mobil;FBMF/ALLVIEW;FBBD/ALLVIEW;FBPN/com.facebook.katana;FBDV/P5Life;FBSV/4.4.2;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/79.0.0.0.52;FBBV/30370547;FBDM/{density=1.5,width=480,height=854};FBLC/es_ES;FBCR/TIGO;FBMF/verykool;FBBD/verykool;FBPN/com.facebook.katana;FBDV/Lotus JR. S5004;FBSV/4.4.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
