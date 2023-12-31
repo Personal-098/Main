@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748049;FBDM/{density=1.0,width=1024,height=552};FBLC/en_GB;FBCR/Airtel;FBMF/T7PRO;FBBD/T7PRO;FBPN/com.facebook.katana;FBDV/T7 Pro;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/MessengerLite;FBAV/312.0.0.8.106;FBPN/com.facebook.mlite;FBLC/in_ID;FBBV/431836095;FBCR/Jio;FBMF/KFTT;FBBD/KFTT;FBDV/KFTT;FBSV/4.0.3;FBCA/arm64-v8a:null;FBDM/{density=1.5,width=1280,height=800};]
