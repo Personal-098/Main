@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097172;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/VodaFone Airtel;FBMF/MYWiGo;FBBD/MYWiGo;FBPN/com.facebook.katana;FBDV/MyWigo 419 Turia;FBSV/4.2.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/405.0.0.23.72;FBBV/338919009;FBDM/{density=3.0,width=720,height=1440};FBLC/en_IN;FBCR/Vodafone IN;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/PADM00;FBSV/8;FBOP/1;FBCA/armeabi-v7a:armeabi;]
