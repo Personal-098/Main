@@ -1,1 +1,1 @@
-[[FBAN/FB4A;FBAV/268.1.0.54.121;FBBV/211681957;FBDM/{density=3.0,width=1080,height=2046};FBLC/en_US;FBRV/212444242;FBCR/Sprint;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-N970U;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]
+[FBAN/MessengerLite;FBAV/312.0.0.8.106;FBPN/com.facebook.mlite;FBLC/in_ID;FBBV/431836095;FBCR/Vodaphone India;FBMF/ME302C;FBBD/ME302C;FBDV/ME302C;FBSV/4.0.3;FBCA/arm64-v8a:;FBDM/{density=1.5,width=1200,height=1848};]
