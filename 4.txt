@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/379.0.0.24.109;FBBV/389395297;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_US;FBRV/390374938;FBCR/Amigo;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/PRA-LX1;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748049;FBDM/{density=1.0,width=1024,height=552};FBLC/en_US;FBCR/Airtel;FBMF/T7Pro;FBBD/T7Pro;FBPN/com.facebook.katana;FBDV/T7 Pro;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
