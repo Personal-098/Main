@@ -1,1 +1,2 @@
-[FBAN/Orca-Android;FBAV/378.0.0.25.106;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/397777638;FBCR/Vodafone IN;FBMF/Huawei;FBBD/Huawei;FBDV/AUM-L41;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=2.0,width=720,height=1358};FB_FW/1;]
+[FBAN/MessengerLite;FBAV/312.0.0.8.106;FBPN/com.facebook.mlite;FBLC/in_ID;FBBV/431836095;FBCR/Jio;FBMF/KFTT;FBBD/KFTT;FBDV/KFTT;FBSV/4.0.3;FBCA/arm64-v8a:null;FBDM/{density=1.5,width=1280,height=800};]
+
