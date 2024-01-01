@@ -1,1 +1,1 @@
-[FBAN/MessengerLite;FBAV/312.0.0.8.106;FBPN/com.facebook.mlite;FBLC/in_ID;FBBV/431836095;FBCR/Banglalink;FBMF/HP-H868;FBBD/HP-H868;FBDV/HP-H868;FBSV/4.0.3;FBCA/arm64-v8a:;FBDM/{density=2.0,width=720,height=1280};]
+[FBAN/FB4A;FBAV/59.0.0.0.189;FBBV/19392060;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/VodaFone Idea;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 2;FBSV/5.0.2;nullFBCA/armeabi-v7a:armeabi;]
