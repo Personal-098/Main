@@ -1,1 +1,1 @@
-[FBAN/MessengerLite;FBAV/312.0.0.8.106;FBPN/com.facebook.mlite;FBLC/in_ID;FBBV/431836095;FBCR/Airtel;FBMF/KFTT;FBBD/KFTT;FBDV/KFTT;FBSV/4.0.3;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.5,width=1280,height=800};]
+[FBAN/Orca-Android;FBAV/439.0.0.29.119;FBPN/com.facebook.orca;FBLC/en_US;FBBV/548243062;FBCR/Airtel;FBMF/realme;FBBD/realme;FBDV/RMX3263;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=2.0,width=720,height=1504};FB_FW/1;]
