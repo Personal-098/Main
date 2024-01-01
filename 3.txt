@@ -1,1 +1,1 @@
-[FBAN/MessengerLite;FBAV/312.0.0.8.106;FBPN/com.facebook.mlite;FBLC/in_ID;FBBV/431836095;FBCR/Robi;FBMF/GLORY;FBBD/GLORY;FBDV/GLORY;FBSV/4.0.3;FBCA/arm64-v8a:;FBDM/{density=1.5,width=480,height=800};]
+[FBAN/Orca-Android;FBAV/23.0.0.4810;FBBV/4851004;[FBAN/Orca-Android;FBAV/417.0.0.33.65;FBBV/442410873;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/MTNL;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.orca;FBDV/All Series;FBSV/8;nullFBCA/arm64-v8a:;]
