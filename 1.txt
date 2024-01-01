@@ -1,1 +1,1 @@
-[FBAN/MessengerLite;FBAV/312.0.0.8.106;FBPN/com.facebook.mlite;FBLC/in_ID;FBBV/431836095;FBCR/Vodaphone India;FBMF/ME302C;FBBD/ME302C;FBDV/ME302C;FBSV/4.0.3;FBCA/arm64-v8a:;FBDM/{density=1.5,width=1200,height=1848};]
+[FBAN/FB4A;FBAV/319.0.0.39.120;FBBV/292233352;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/296244047;FBCR/Banglalink;FBMF/GIONEE;FBBD/GIONEE;FBPN/com.facebook.katana;FBDV/GIONEE F205;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
