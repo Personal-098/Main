@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/87.0.0.17.79;FBBV/34592834;FBDM/{density=1.5,width=480,height=854};FBLC/es_LA;FBCR/Movistar;FBMF/ZUUM;FBBD/ZUUM;FBPN/com.facebook.katana;FBDV/MAGNO;FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748049;FBDM/{density=1.0,width=1024,height=720};FBLC/en_US;FBCR/Airtel;FBMF/rockchip;FBBD/rk30sdk;FBPN/com.facebook.katana;FBDV/NBX-T8014;FBSV/4.2.2;nullFBCA/armeabi-v7a:armeabi;]
