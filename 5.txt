@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748049;FBDM/{density=1.0,width=1024,height=720};FBLC/en_US;FBCR/Airtel;FBMF/rockchip;FBBD/rk30sdk;FBPN/com.facebook.katana;FBDV/NBX-T8014;FBSV/4.2.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/60.0.0.16.76;FBBV/20454004;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBCR/Vodafone IN;FBMF/PANASONIC;FBBD/Panasonic;FBPN/com.facebook.katana;FBDV/Panasonic P55;FBSV/5.0.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
